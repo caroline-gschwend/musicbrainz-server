@@ -16,7 +16,7 @@
         <span class="menu-header">[% l('About Us') %]&#xA0;&#x25BE;</span>
         <ul>
             <li>
-                <a href="[% doc_link('About') %]">[% l('About MusicBrainz') %]</a>
+                <a href="[% doc_link('About') %]">[% l('About MuBrainz') %]</a>
             </li>
             <li>
                 <a href="https://metabrainz.org/sponsors">[% l('Sponsors') %]</a>
